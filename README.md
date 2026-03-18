@@ -127,6 +127,4 @@ A Python-based AI voice assistant with real-time API integration and a modular, 
   <img src="https://komarev.com/ghpvc/?username=Harsh-Yadav029&color=58A6FF&style=flat-square&label=Profile+Views" />
 </div>
 
-<div align="center">
-  <i>⚡ "First, solve the problem. Then, write the code." — John Johnson</i>
-</div>
+
