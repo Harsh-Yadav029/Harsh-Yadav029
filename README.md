@@ -105,7 +105,9 @@ A Python-based AI voice assistant with real-time API integration and a modular, 
 ## 🏆 LeetCode
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Harsh-Yadav029?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <a href="https://leetcode.com/u/HARSHKUMARYADAV/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/HARSHKUMARYADAV?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Profile" />
+  </a>
 </div>
 
 ---
