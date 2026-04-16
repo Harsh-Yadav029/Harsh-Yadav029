@@ -53,6 +53,13 @@ I'm a **Computer Science (AI)** undergrad at **KIET Group of Institutions, Ghazi
 
 ## 🚀 Featured Projects
 
+### 💡 [Lumen — AI PDF Chat Assistant](https://github.com/Harsh-Yadav029/LUMEN-AI)
+> React · Node.js · Express · MongoDB · Groq · Google Gemini · Pinecone · Firebase Auth · Tailwind CSS
+
+A production-deployed **RAG-based PDF chatbot** where users upload any PDF and chat with it using semantic search. Built **real-time token streaming** via SSE with a **dual-model fallback** (Groq LLaMA-3.3-70B → Gemini 2.0 Flash). Features **Firebase Auth** (Google OAuth + email/password), per-user data isolation in MongoDB, persistent chat history, and multi-PDF support across sessions.
+
+---
+
 ### 🎓 [VidyaMitra — AI Career Agent](https://github.com/Harsh-Yadav029)
 > React · Node.js · Express · MongoDB Atlas · Google Gemini 2.0 Flash API · Firebase Auth
 
